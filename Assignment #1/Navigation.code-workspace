@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../Navigation"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Assignment 2"
+	}
+}
